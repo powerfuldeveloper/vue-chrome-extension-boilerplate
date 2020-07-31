@@ -6,7 +6,8 @@
   },
   "dependencies": {
     "bulma-fluent": "^0.3.25",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-toastr": "^2.1.2"
   },
   "description": "vue-chrome-extension-boilerplate",
   "devDependencies": {
